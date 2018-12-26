@@ -72,26 +72,25 @@ title: 1주차 포스팅
    <tr>
      <td>농구</td>
      <td>누가 공을 골대에 더 많이 넣는가</td>
-     <td>라인 별로 </td>
+     <td>라인 별로 점수를 달리해서 정해진 시간내에 가장 많은 점수를 획득하는 팀이 우승 </td>
    </tr>
    <tr>
      <td>마라톤</td>
      <td>누가 더 빨리 들어오는가</td>
-     <td>Design thinking 학습을 통해 새로운 관점에서 SW를 봐라보는 것</td>
+     <td>각 반별로 팀을 짜서 정해진 구간만큼 주행하고 바톤터치를 한다. 이때 코스를 얼마나 정확하게 주행하는지, 얼마나 빨리 결승점에 도착하는지가 우승의 포인트이다.</td>
    </tr>
    <tr>
      <td>골프</td>
-     <td> Design thinking 학습</td>
-     <td>Design thinking 학습을 통해 새로운 관점에서 SW를 봐라보는 것</td>
+     <td>누가 홀에 공을 넣는가 </td>
+     <td>골프처럼 홀이 있고 로봇이 골프공을 홀에 넣는다. 많은 점수를 획득한 팀이 우승한다.</td>
    </tr>
    <tr>
      <td>씨름</td>
-     <td> Design thinking 학습</td>
-     <td>Design thinking 학습을 통해 새로운 관점에서 SW를 봐라보는 것</td>
+     <td>정해진 필드에서 상대 봇을 밀어내기</td>
+     <td>1대1로 진행되며 서로 부딪히거나 피하면서 상대방의 로봇을 경기장 밖으로 밀어내면 점수를 획득한다. 정해진 시간 동안 결과가 나오지 않을 경우 무승부 처리를 한다.</td>
    </tr>
  </tbody>
 </table>
-
 
 <h1 id="1주차-reflection-design-thinking-방법론">[1주차 Reflection] Design Thinking 방법론</h1>
 
