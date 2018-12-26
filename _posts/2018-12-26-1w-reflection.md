@@ -70,7 +70,7 @@ title: 1주차 포스팅
  </thead>
  <tbody>
    <tr>
-     <td>농구<br />(empathize)</td>
+     <td>농구</td>
      <td>누가 공을 골대에 더 많이 넣는가</td>
      <td>라인 별로 </td>
    </tr>
@@ -105,7 +105,7 @@ title: 1주차 포스팅
  </thead>
  <tbody>
    <tr>
-     <td>공감<br />(empathize)</td>
+     <td>공감</td>
      <td>아이디어 공감 단계</td>
      <td>1. 공감지도:<br />아이디어를 구매자 입장에서 공감하는 단계, 정말 구매자에게 필요한지 알 수 있다.</td>
    </tr>
