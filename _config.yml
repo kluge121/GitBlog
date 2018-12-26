@@ -276,8 +276,6 @@ compress_html:
   ignore:
     envs: development
     
-# Social info
-navigation: True
 
 # Defaults
 defaults:
