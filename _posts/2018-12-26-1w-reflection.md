@@ -1,4 +1,4 @@
-1주차 Reflection
+1주차 Design Thinking
 ---
 title: 1주차 포스팅
 ---
